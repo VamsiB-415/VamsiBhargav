@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/VamsiBhargav/static/css/main.82a9ee32.css",
+    "main.js": "/VamsiBhargav/static/js/main.1b51390f.js",
+    "static/media/realestate.jpg": "/VamsiBhargav/static/media/realestate.44fd19f4c6872731149c.jpg",
+    "static/media/Vamsi.NetDeveloper.pdf": "/VamsiBhargav/static/media/Vamsi.NetDeveloper.550211ddd2168f15df8c.pdf",
+    "static/media/csharp.png": "/VamsiBhargav/static/media/csharp.e095694584811ade286e.png",
+    "static/media/netcore.png": "/VamsiBhargav/static/media/netcore.a10a4f42b4a18f594def.png",
+    "static/media/angular.png": "/VamsiBhargav/static/media/angular.b6d2a9dec3e43e0ffb95.png",
+    "static/media/workImg.jpeg": "/VamsiBhargav/static/media/workImg.e4c66be6ae2ae4f83608.jpeg",
+    "static/media/react.png": "/VamsiBhargav/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/capture.png": "/VamsiBhargav/static/media/capture.d0b26884653ee28e5bd3.png",
+    "static/media/html.png": "/VamsiBhargav/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/VamsiBhargav/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/VamsiBhargav/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/VamsiBhargav/index.html",
+    "main.82a9ee32.css.map": "/VamsiBhargav/static/css/main.82a9ee32.css.map",
+    "main.1b51390f.js.map": "/VamsiBhargav/static/js/main.1b51390f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82a9ee32.css",
+    "static/js/main.1b51390f.js"
+  ]
+}
